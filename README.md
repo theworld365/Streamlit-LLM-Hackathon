@@ -14,8 +14,8 @@ This project aims to develop an advanced conversational AI system capable of pro
 ## Functionality
 Functionality of the "Multiple Docs Chatbot using Llama2" project:
 
--Multi-Document Integration: The chatbot will be able to integrate and process information from multiple documents and sources.
--Contextual Responses: The chatbot will generate responses that consider the context of the conversation and the content of the multiple documents.
--Document Retrieval: Users can request specific documents or information from within documents using natural language queries.
--Summarization: The chatbot will be capable of summarizing lengthy documents to provide concise and relevant information.
--An intuitive and user-friendly interface for seamless interactions.
+- Multi-Document Integration: The chatbot will be able to integrate and process information from multiple documents and sources.
+- Contextual Responses: The chatbot will generate responses that consider the context of the conversation and the content of the multiple documents.
+- Document Retrieval: Users can request specific documents or information from within documents using natural language queries.
+- Summarization: The chatbot will be capable of summarizing lengthy documents to provide concise and relevant information.
+- An intuitive and user-friendly interface for seamless interactions.
