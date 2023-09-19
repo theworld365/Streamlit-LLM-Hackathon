@@ -19,3 +19,11 @@ Functionality of the "Multiple Docs Chatbot using Llama2" project:
 - Users can request specific documents or information from within documents using natural language queries.
 - The chatbot will be capable of summarizing lengthy documents to provide concise and relevant information.
 
+## Usage
+To use DocsBot, you can run the `app.py` script. This will start the Streamlit app.
+
+Note: Before running the script, make sure you have installed all the required packages listed in `requirements.txt`.
+
+```python
+streamlit run app.py
+```
